@@ -1,7 +1,4 @@
-package org.example.Arrays;
-
-import java.util.HashMap;
-import java.util.Map;
+package org.example.arrays;
 
 public class PlusOne {
 

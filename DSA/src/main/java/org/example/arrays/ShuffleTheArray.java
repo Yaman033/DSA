@@ -1,4 +1,4 @@
-package org.example.Arrays;
+package org.example.arrays;
 
 public class ShuffleTheArray {
 

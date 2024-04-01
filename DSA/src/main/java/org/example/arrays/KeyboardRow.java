@@ -1,6 +1,5 @@
-package org.example.Arrays;
+package org.example.arrays;
 
-import java.sql.Array;
 import java.util.*;
 
 public class KeyboardRow {

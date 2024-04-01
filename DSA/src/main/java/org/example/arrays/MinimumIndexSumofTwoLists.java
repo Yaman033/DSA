@@ -1,7 +1,6 @@
-package org.example.Arrays;
+package org.example.arrays;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class MinimumIndexSumofTwoLists {
     Map<String,Integer> map = new HashMap<>();
